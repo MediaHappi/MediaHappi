@@ -1,6 +1,3 @@
-# app-8-Dashboard
-Admin & User Dashboard Templates (with functionality) for Laravel + Vue App Development
-
 # Happi AI Studio
 
 [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://travis-ci.org/username/projectname)
