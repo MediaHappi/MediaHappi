@@ -1,4 +1,4 @@
-# Happi AI Studio
+# Media Happi AI
 
 [![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://travis-ci.org/username/projectname)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
