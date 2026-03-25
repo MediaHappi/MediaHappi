@@ -26,7 +26,7 @@ For a full understanding of our brand and practices,
 - [Brand Guidelines ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
 - [Coding Standards ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
 - [Ethical AI ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
-- [Official Website ->](https://MEDIAHAPPI.AI)
+- [Official Website ->](https://MEDIAHAPPI.com)
 
 ---
 
