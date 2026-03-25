@@ -2,8 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEDIA-HAPPI-AI)
 
-
-[![Visit MediaHappi.com](https://img.shields.io/badge/Visit-MediaHappi.com-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.com)
+[![Visit MediaHappi.com](https://img.shields.io/badge/Visit-MediaHappi.com-blue?style=for-the-badge&logo=appveyor)](https://mediahappi.com)
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,86 +18,132 @@
 
 ### 😃 Media Happi Documentation
 
-For a full understanding of our brand and practices, 
-<b>read our main [README.md](https://github.com/MEDIA-HAPPI-AI/public/blob/main/README.md).</b>
-<br> Here are some more resources to explore:
+For a full understanding of our brand and practices,  
+<b>read our main [README.md](https://github.com/MEDIA-HAPPI-AI/public/blob/main/README.md).</b>  
+<br> Here are additional resources:
 
 - [Brand Guidelines ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
 - [Coding Standards ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
 - [Ethical AI ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
-- [Official Website ->](https://MEDIAHAPPI.com)
+- [Official Website ->](https://mediahappi.com)
 
 ---
-
 
 # 🌟 Join Us
 
-We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you! :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
-  
-## 🖥️ Seeking Laravel Maestros
-Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!
-:email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
+We are building powerful AI-driven software, tools, and infrastructure — and we are always looking for talented specialists who love solving meaningful problems.
 
-![Laravel](https://img.shields.io/badge/Laravel-%FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
+If you are passionate about scalable systems, ethical AI, and building innovative technology, we want to connect.
 
-## ☁️ AWS Deployment Gurus Wanted
-Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, understand the intricacies of deployment, and can ensure our apps run smoothly in the cloud, we've got jobs available now.
-:email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
+📧 <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a>
+
+---
+
+## 🖥️ Laravel Engineers Wanted
+
+Do you love Laravel and building elegant, scalable web applications?
+
+We are actively looking for Laravel developers who can help build robust backend architecture and modern SaaS platforms.
+
+📧 <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
+
+---
+
+## ☁️ AWS Deployment Specialists
+
+Deployment is an art — AWS is our infrastructure backbone.
+
+We need engineers experienced with:
+
+• CI/CD pipelines  
+• scalable cloud architecture  
+• performance optimization  
+• secure deployment practices  
+
+📧 <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a>
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
+
+## 🧠 OpenCLaw AI Computer Specialists
+
+We are building our own AI computer infrastructure powered by OpenCLaw-based systems and advanced model orchestration.
+
+We are seeking specialists experienced in:
+
+• AI infrastructure engineering  
+• GPU / compute optimization  
+• model orchestration  
+• distributed AI systems  
+• legal-tech AI architecture  
+• high-performance computing environments  
+
+If you are passionate about the future of AI computing architecture, we want to talk.
+
+📧 <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a>
 
 ---
 
-## :hammer_and_wrench: **Current Projects** 
+# 🔎 See More Open Positions
 
-- **Happi AI Studio 2.0**: Revolutionizing AI-powered Content Creation.
-- **ChatHappi**: Your Ultimate AI-powered Chatbot Builder.
-- **InfluencerHappi**: Advanced AI-driven Influencer Marketing.
-- **SocialHappi**: AI-powered Social Media Excellence.
-- **BuzzHappi**: Innovating Email Marketing with AI.
-- **SEOHappi**: AI-driven SEO Optimization Templates.
-- **VoiceHappi**: Transcending Text-to-Speech Capabilities.
-- **Happicasts**: AI-powered Podcasting Tools.
+We are continuously expanding our team.
+
+View the most current job listings here:
+
+➡️ https://mediahappi.com/jobs/
+
+New technical and creative roles are posted regularly.
+
+---
+
+## :hammer_and_wrench: Current Projects
+
+- Media Happi AI Studio 2.0 — Next generation AI content creation platform
+- Jeanne AI — proprietary AI compute infrastructure
 
 ---
 
-## 💡 **Future Endeavors** 
+## 💡 Future Development
 
-- **<a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>**: The Most Advanced AI Content Creation.
-- **VideoHappi**: AI Tools for Video Creation, Editing, and Mastering.
-- **HappiWeb**: Next-gen Web Application for Seamless Experiences.
-- **HappiMobile**: AI On-the-Go with Our iOS & Android Apps.
+- <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a> — next generation AI reasoning and orchestration engine
 
 ---
-[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
-At Media Happi AI, we merge innovation with dedication, crafting AI-driven applications and web platforms to enhance user experiences. Through our advanced AI, <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, we redefine possibilities in the realm of content creation.
+[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.com)
+
+Media Happi builds advanced AI software, intelligent automation tools, and scalable web platforms designed to improve productivity and creativity.
+
+Through <a href="https://mediahappi.com"><b>Happi AI Studio</b></a>, we are redefining what modern AI platforms can achieve.
+
 <p align="left">
-  <a href="https://github.com/MEDIA-HAPPI-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://twitter.com/mediahappi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/company/mediahappi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.paypal.com/paypalme/mediahappi"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <a href="https://github.com/MEDIA-HAPPI-AI">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mediahappi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/company/mediahappi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/mediahappi">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
 </p>
 
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
-
 ---
-🌐 [Official Website](https://mediahappi.ai)
-📸 [Instagram](https://instagram.com/media_happi)
-💌 [Join Our Discord](https://discord.gg/As8BxpGR)
+
+🌐 https://mediahappi.com  
+📸 https://instagram.com/media_happi  
+💬 https://discord.gg/As8BxpGR  
 
 ---
 
-©️ MEDIA HAPPI LLC | CHICAGO, IL USA - Crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>
+© MEDIA HAPPI LLC  
+Chicago • San Francisco  
+
+Building the future of AI with <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a>
 
 ---
-
-
