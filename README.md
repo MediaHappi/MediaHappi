@@ -1,4 +1,4 @@
-[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
+[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEDIA-HAPPI-AI)
 
