@@ -1,4 +1,4 @@
-[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)
+[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEDIA-HAPPI-AI)
 
@@ -75,11 +75,10 @@ We are building our own AI computer infrastructure powered by OpenCLaw-based sys
 We are seeking specialists experienced in:
 
 • AI infrastructure engineering  
-• GPU / compute optimization  
-• model orchestration  
+• GPU optimization  
 • distributed AI systems  
-• legal-tech AI architecture  
-• high-performance computing environments  
+• model orchestration  
+• high-performance compute environments  
 
 If you are passionate about the future of AI computing architecture, we want to talk.
 
@@ -101,22 +100,22 @@ New technical and creative roles are posted regularly.
 
 ## :hammer_and_wrench: Current Projects
 
-- Media Happi AI Studio 2.0 — Next generation AI content creation platform
-- Jeanne AI — proprietary AI compute infrastructure
+- Media Happi AI Studio 2.0 — next generation AI content creation, AI influencer marketing intelligence, social media automation tools, AI email marketing generation,  advanced text-to-speech, AI podcast creation tools
+- Jeanne AI — proprietary AI compute architecture
 
 ---
 
 ## 💡 Future Development
 
-- <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a> — next generation AI reasoning and orchestration engine
+- <a href="https://mediahappi.com/jeanne-ai"><b>Jeanne AI</b></a> — advanced reasoning and orchestration AI
 
 ---
 
-[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.com)
+[![Media Happi AI Logo](https://mediahappi.com/wp-content/uploads/2025/02/MEDIA-HAPPI-LOGO-0011-copy.png.webp)](https://mediahappi.com)
 
 Media Happi builds advanced AI software, intelligent automation tools, and scalable web platforms designed to improve productivity and creativity.
 
-Through <a href="https://mediahappi.com"><b>Happi AI Studio</b></a>, we are redefining what modern AI platforms can achieve.
+Through <a href="https://mediahappi.com"><b>Media Happi AI</b></a>, we are redefining what modern AI platforms can achieve.
 
 <p align="left">
   <a href="https://github.com/MEDIA-HAPPI-AI">
