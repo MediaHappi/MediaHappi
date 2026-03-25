@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEDIA-HAPPI-AI)
 
 
-[![Visit MediaHappi.AI](https://img.shields.io/badge/Visit-MediaHappi.AI-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.AI)
+[![Visit MediaHappi.com](https://img.shields.io/badge/Visit-MediaHappi.AI-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.AI)
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
