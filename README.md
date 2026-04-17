@@ -138,7 +138,7 @@ Through <a href="https://mediahappi.com"><b>Media Happi AI</b></a>, we are redef
 
 🌐 https://mediahappi.com  
 📸 https://instagram.com/media_happi  
-💬 https://discord.gg/As8BxpGR  
+💬 https://discord.gg/As8BxpGR
 
 ---
 
